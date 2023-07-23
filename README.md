@@ -1,6 +1,5 @@
 # Credit-Card-Fraud-Detection-System
 
-📊 Project Description:
 Welcome to the Credit Card Fraud Detection project! In this repository, I have developed a machine-learning model using Logistic Regression to tackle the challenging problem of identifying fraudulent credit card transactions. To address the issue of imbalanced data, I have applied undersampling techniques to balance the dataset effectively.
 
 📉 Imbalanced datasets are a common occurrence in fraud detection tasks, where the number of genuine transactions far outweighs the occurrences of fraudulent ones. This severe class imbalance can lead to biased model predictions, favoring the majority class and severely impacting the detection of fraud cases. To combat this, I have implemented undersampling techniques to reduce the number of genuine transactions, allowing the model to learn from a more balanced dataset.
